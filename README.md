@@ -36,7 +36,7 @@ Tools
 
 
 Certification
-
+Cloud Practitioner
 
 
 
